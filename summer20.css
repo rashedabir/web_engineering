@@ -1,0 +1,38 @@
+.heading{
+    background-color: yellow;
+}
+.choice{
+    background-color: yellow;
+}
+.food{
+    text-transform: capitalize;
+}
+.progress_bar{
+    display: flex;
+    align-items: center;
+}
+.white_bar{
+    background-color: #e6e6e6;
+    border-radius: 5px;
+    height: 5px;
+    width: 300px;
+    margin: 0 10px;
+}
+.bar{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    border-radius: 5px;
+}
+.bar1{
+    height: 100%;
+    width: 20%;
+    background-color: blue;
+    border-radius: 5px;
+}
+.bar2{
+    height: 100%;
+    width: 67%;
+    background-color: blue;
+    border-radius: 5px;
+}
