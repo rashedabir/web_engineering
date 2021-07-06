@@ -1,0 +1,95 @@
+
+.text-center{
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+}
+.bg-maron{
+    background-color: brown;
+    height: 40px;
+    width: 40%;
+    padding-top: 20px;
+    margin-right: 10px;
+}
+.bg-black{
+    background-color: black;
+    width: 60%;
+    padding-top: 20px;
+}
+.d-flex{
+    display: flex;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    background-color: green;
+    width: 20%;
+    height: 435px;
+    margin: 10px 0;
+}
+.products{
+    width: 1050px;
+    margin: 10px;
+    background-color: navy;
+    height: 250px;
+}
+.products p{
+    padding: 10px;
+}
+.feature{
+    background-color: orangered;
+    height: 10%;
+    margin: 10px 0;
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+}
+.second-row{
+    justify-content: space-between;
+}
+.feature2{
+    background-color: orangered;
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.bonus{
+    background-color: rgb(187, 133, 114);
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+}
+.bonus1{
+    background-color: rgb(187, 133, 114);
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.bonus2{
+    background-color: rgb(187, 133, 114);
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+    margin-left: 115px;
+}
+.bonus3{
+    background-color: rgb(187, 133, 114);
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+}
+.third-row{
+    margin-top: 5px;
+    justify-content: space-between;
+}
+.footer{
+    background-color: rgb(148, 148, 15);
+    margin-top: 10px;
+    height: 40px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
